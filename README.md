@@ -3,4 +3,4 @@
 </p>
 
 # Arthur Andrade
-<sub>Brazilian economist</sub>
+<sub>Brazilian economist. Interested in Business Intelligence, Data Analysis and Economics.  </sub>
